@@ -1,18 +1,16 @@
 ---
 title:  "Community"
-description: "A list of public channels SpaceVim, All messages are bridged between IRC, gitter, telegram, matrix and slack"
+description: "A list of SpaceVim's public channels, All messages are bridged between IRC, gitter, telegram, matrix and slack"
 ---
 
 # [Home](../) >> Community
-
-Visit these resources for help or general questions.
 
 
 <!-- vim-markdown-toc GFM -->
 
 - [News](#news)
-- [Bug repport and feature request](#bug-repport-and-feature-request)
-- [Mail list](#mail-list)
+- [Feedback](#feedback)
+- [Mailing list](#mailing-list)
 - [Chat](#chat)
 - [Others](#others)
 
@@ -20,15 +18,16 @@ Visit these resources for help or general questions.
 
 ### News
 
-- <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/SpaceVim)
+- [Follow @SpaceVim](https://twitter.com/SpaceVim)
 
-### Bug repport and feature request
+### Feedback
 
-- [issue tracker](https://github.com/SpaceVim/SpaceVim/issues) for issue and feature requests
+Have you found a bug? Or maybe you want a new feature. Please use the
+[issue tracker](https://github.com/SpaceVim/SpaceVim/issues) to report any bugs or file feature requests.
 
-### Mail list
+### Mailing list
 
-Users who are accustomed to using email can also communicate with each other through the mail group.
+Users who are accustomed to using email can also communicate with each other through the mailing list.
 They can send email to the mailing list to participate in the discussion.
 
 ```
@@ -56,7 +55,7 @@ You can also view all the mail list history via google forum:
 
 All of these channels are bridged together. Click on one of the badges
 below to join the chat. In all of these channels, messages from
-`SpaceVimBot` is sent by remote user, and the format of the remote
+`SpaceVimBot` are sent by a remote user, and the format of the remote
 messages is:
 
 `**Nick:**` message
